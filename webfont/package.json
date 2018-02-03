@@ -1,0 +1,8 @@
+{
+  "name": "webfont-builder",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-webfont": "*"
+  }
+}
